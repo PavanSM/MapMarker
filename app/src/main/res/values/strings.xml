@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoonggDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_key" translatable="false">AIzaSyCiyEzEQs1EW1YO3HPzlbYZ5_jcmIdcSSY</string>
+</resources>
